@@ -1,0 +1,18 @@
+# Core App
+streamlit==1.45.0
+pandas==2.2.2
+pyodbc==5.1.0
+SQLAlchemy==2.0.31
+
+# Azure SDK for Key Vault
+azure-identity==1.17.1
+azure-keyvault-secrets==4.8.0
+
+# Data Science & ML
+scikit-learn==1.5.1
+numpy==1.26.4
+
+# Data Visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+plotly==5.22.0
